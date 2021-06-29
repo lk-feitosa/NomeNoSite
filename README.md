@@ -1,6 +1,6 @@
-##Site que pede nome
+## Site que pede nome
 
-####Praticando DOM
+#### Praticando DOM
 
-▸ Um "site" com uma input para inserir o nome
-▸ E uma function para enviar um alert mostrando seu nome
+▸ Um "site" com uma input para inserir o nome <br>
+▸ E uma function para enviar um alert mostrando seu nome <br>
