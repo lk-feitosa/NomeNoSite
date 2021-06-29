@@ -1,4 +1,4 @@
-## Site que pede nome
+## Site para inserir seu nome e receber um alert
 
 #### Praticando DOM
 
