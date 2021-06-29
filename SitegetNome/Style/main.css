@@ -53,17 +53,6 @@ body{
     font-size: 12px;    
 }
 
-textarea{
-    width: 90%;
-    height: 100px;
-    resize: none;
-
-    margin: auto 14px;
-    padding: 5px;
-
-    font-size: 12px;
-}
-
 button{
     display: block;
     text-align: center;
